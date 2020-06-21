@@ -912,7 +912,7 @@
     <AndroidResource Include="Resources\drawable-hdpi\SplashPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\HeaderLogop" />
+    <AndroidResource Include="Resources\drawable-hdpi\HeaderLogo.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\HelpPage22.webp" />

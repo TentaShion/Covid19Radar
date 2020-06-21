@@ -303,7 +303,7 @@
     <AndroidResource Include="Resources\drawable-hdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\TutorialPage50.png" />
@@ -357,7 +357,7 @@
     <AndroidResource Include="Resources\drawable-ja-hdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-hdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-hdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-hdpi\TutorialPage50.png" />
@@ -411,7 +411,7 @@
     <AndroidResource Include="Resources\drawable-ja-ldpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-ldpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-ldpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-ldpi\TutorialPage50.png" />
@@ -465,7 +465,7 @@
     <AndroidResource Include="Resources\drawable-ja-mdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-mdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-mdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-mdpi\TutorialPage50.png" />
@@ -519,7 +519,7 @@
     <AndroidResource Include="Resources\drawable-ja-xhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-xhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xhdpi\TutorialPage50.png" />
@@ -573,7 +573,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\TutorialPage50.png" />
@@ -627,7 +627,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\TutorialPage50.png" />
@@ -681,7 +681,7 @@
     <AndroidResource Include="Resources\drawable-ldpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ldpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ldpi\TutorialPage50.png" />
@@ -729,7 +729,7 @@
     <AndroidResource Include="Resources\drawable-mdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-mdpi\TutorialPage50.png" />
@@ -783,7 +783,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\TutorialPage50.png" />
@@ -837,7 +837,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\TutorialPage50.png" />
@@ -891,7 +891,7 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxxhdpi\TutorialPage50.png" />
@@ -1356,7 +1356,7 @@
     <AndroidResource Include="Resources\drawable-en-xxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-xxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxhdpi\TutorialPage50.png" />
@@ -1443,7 +1443,7 @@
     <AndroidResource Include="Resources\drawable-en-xhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-xhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xhdpi\TutorialPage50.png" />
@@ -1530,7 +1530,7 @@
     <AndroidResource Include="Resources\drawable-en-mdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-mdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-mdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-mdpi\TutorialPage50.png" />
@@ -1617,7 +1617,7 @@
     <AndroidResource Include="Resources\drawable-en-ldpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-ldpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-ldpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-ldpi\TutorialPage50.png" />
@@ -1704,7 +1704,7 @@
     <AndroidResource Include="Resources\drawable-en-hdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-hdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-hdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-hdpi\TutorialPage50.png" />
@@ -1791,7 +1791,7 @@
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\TutorialPage20.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxxhdpi\TutorialPage40.png" />
+    <AndroidResource Include="Resources\drawable-en-xxxhdpi\TutorialPage40.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\TutorialPage50.png" />

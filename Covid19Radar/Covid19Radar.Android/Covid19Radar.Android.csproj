@@ -282,7 +282,7 @@
     <AndroidResource Include="Resources\drawable-hdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\HelpPage45.png" />
@@ -336,7 +336,7 @@
     <AndroidResource Include="Resources\drawable-ja-hdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-hdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-hdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-hdpi\HelpPage45.png" />
@@ -390,7 +390,7 @@
     <AndroidResource Include="Resources\drawable-ja-ldpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-ldpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-ldpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-ldpi\HelpPage45.png" />
@@ -444,7 +444,7 @@
     <AndroidResource Include="Resources\drawable-ja-mdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-mdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-mdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-mdpi\HelpPage45.png" />
@@ -498,7 +498,7 @@
     <AndroidResource Include="Resources\drawable-ja-xhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-xhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xhdpi\HelpPage45.png" />
@@ -552,7 +552,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\HelpPage45.png" />
@@ -606,7 +606,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\HelpPage45.png" />
@@ -660,7 +660,7 @@
     <AndroidResource Include="Resources\drawable-ldpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ldpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ldpi\HelpPage45.png" />
@@ -711,7 +711,7 @@
     <AndroidResource Include="Resources\drawable-mdpi\HelpPage41.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-mdpi\HelpPage45.png" />
@@ -762,7 +762,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\HelpPage45.png" />
@@ -816,7 +816,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\HelpPage45.png" />
@@ -870,7 +870,7 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxxhdpi\HelpPage45.png" />
@@ -1308,7 +1308,7 @@
     <AndroidResource Include="Resources\drawable-en-xxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-xxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxhdpi\HelpPage45.png" />
@@ -1395,7 +1395,7 @@
     <AndroidResource Include="Resources\drawable-en-xhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-xhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xhdpi\HelpPage45.png" />
@@ -1482,7 +1482,7 @@
     <AndroidResource Include="Resources\drawable-en-mdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-mdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-mdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-mdpi\HelpPage45.png" />
@@ -1569,7 +1569,7 @@
     <AndroidResource Include="Resources\drawable-en-ldpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-ldpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-ldpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-ldpi\HelpPage45.png" />
@@ -1656,7 +1656,7 @@
     <AndroidResource Include="Resources\drawable-en-hdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-hdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-hdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-hdpi\HelpPage45.png" />
@@ -1743,7 +1743,7 @@
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\HelpPage42.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxxhdpi\HelpPage44.png" />
+    <AndroidResource Include="Resources\drawable-en-xxxhdpi\HelpPage44.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\HelpPage45.png" />

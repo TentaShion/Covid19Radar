@@ -1233,40 +1233,40 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-hdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-hdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-ldpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-ldpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-mdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-mdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-xhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ldpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
@@ -1323,7 +1323,7 @@
     <AndroidResource Include="Resources\drawable-en-xxhdpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-xxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxhdpi\InfoMark.png" />
@@ -1410,7 +1410,7 @@
     <AndroidResource Include="Resources\drawable-en-xhdpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-xhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xhdpi\InfoMark.png" />
@@ -1497,7 +1497,7 @@
     <AndroidResource Include="Resources\drawable-en-mdpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-mdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-mdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-mdpi\InfoMark.png" />
@@ -1584,7 +1584,7 @@
     <AndroidResource Include="Resources\drawable-en-ldpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-ldpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-ldpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-ldpi\InfoMark.png" />
@@ -1671,7 +1671,7 @@
     <AndroidResource Include="Resources\drawable-en-hdpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-hdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-hdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-hdpi\InfoMark.png" />
@@ -1758,7 +1758,7 @@
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\HOMEPage11.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxxhdpi\ic_hamburger.png" />
+    <AndroidResource Include="Resources\drawable-en-xxxhdpi\ic_hamburger.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\InfoMark.png" />

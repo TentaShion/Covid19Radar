@@ -924,7 +924,7 @@
     <AndroidResource Include="Resources\drawable-hdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-hdpi\Nocontact10.png" />
@@ -948,7 +948,7 @@
     <AndroidResource Include="Resources\drawable-ja-hdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-hdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-hdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-ldpi\HeaderLogo.png" />
@@ -963,7 +963,7 @@
     <AndroidResource Include="Resources\drawable-ja-ldpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-ldpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-ldpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-ldpi\Nocontact10.png" />
@@ -987,7 +987,7 @@
     <AndroidResource Include="Resources\drawable-ja-mdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-mdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-mdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-mdpi\Nocontact10.png" />
@@ -1011,7 +1011,7 @@
     <AndroidResource Include="Resources\drawable-ja-xhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-xhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xhdpi\Nocontact10.png" />
@@ -1035,7 +1035,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\Nocontact10.png" />
@@ -1059,7 +1059,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\Nocontact10.png" />
@@ -1083,7 +1083,7 @@
     <AndroidResource Include="Resources\drawable-ldpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ldpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ldpi\Nocontact10.png" />
@@ -1110,7 +1110,7 @@
     <AndroidResource Include="Resources\drawable-mdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-mdpi\Nocontact10.png" />
@@ -1137,7 +1137,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\Nocontact10.png" />
@@ -1161,7 +1161,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\Nocontact10.png" />
@@ -1185,7 +1185,7 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\HOMEPage11.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxxhdpi\Nocontact10.png" />
@@ -1326,7 +1326,7 @@
     <AndroidResource Include="Resources\drawable-en-xxhdpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-xxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxhdpi\Logo.png" />
@@ -1413,7 +1413,7 @@
     <AndroidResource Include="Resources\drawable-en-xhdpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-xhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xhdpi\Logo.png" />
@@ -1500,7 +1500,7 @@
     <AndroidResource Include="Resources\drawable-en-mdpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-mdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-mdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-mdpi\Logo.png" />
@@ -1587,7 +1587,7 @@
     <AndroidResource Include="Resources\drawable-en-ldpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-ldpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-ldpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-ldpi\Logo.png" />
@@ -1674,7 +1674,7 @@
     <AndroidResource Include="Resources\drawable-en-hdpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-hdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-hdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-hdpi\Logo.png" />
@@ -1761,7 +1761,7 @@
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\ic_hamburger.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxxhdpi\InfoMark.png" />
+    <AndroidResource Include="Resources\drawable-en-xxxhdpi\InfoMark.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\Logo.png" />

@@ -906,7 +906,7 @@
     <AndroidResource Include="Resources\drawable-hdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\SplashPage11.png" />
@@ -930,7 +930,7 @@
     <AndroidResource Include="Resources\drawable-ja-hdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-hdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-hdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-hdpi\SplashPage11.png" />
@@ -969,7 +969,7 @@
     <AndroidResource Include="Resources\drawable-ja-ldpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-ldpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-ldpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-ldpi\SplashPage11.png" />
@@ -993,7 +993,7 @@
     <AndroidResource Include="Resources\drawable-ja-mdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-mdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-mdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-mdpi\SplashPage11.png" />
@@ -1017,7 +1017,7 @@
     <AndroidResource Include="Resources\drawable-ja-xhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-xhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xhdpi\SplashPage11.png" />
@@ -1041,7 +1041,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxhdpi\SplashPage11.png" />
@@ -1065,7 +1065,7 @@
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ja-xxxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ja-xxxhdpi\SplashPage11.png" />
@@ -1089,7 +1089,7 @@
     <AndroidResource Include="Resources\drawable-ldpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-ldpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-ldpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-ldpi\SplashPage11.png" />
@@ -1116,7 +1116,7 @@
     <AndroidResource Include="Resources\drawable-mdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-mdpi\SplashPage11.png" />
@@ -1143,7 +1143,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xhdpi\SplashPage11.png" />
@@ -1167,7 +1167,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\SplashPage11.png" />
@@ -1191,7 +1191,7 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\Nocontact10.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxxhdpi\SplashPage11.png" />
@@ -1338,7 +1338,7 @@
     <AndroidResource Include="Resources\drawable-en-xxhdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-xxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxhdpi\SplashPage11.png" />
@@ -1425,7 +1425,7 @@
     <AndroidResource Include="Resources\drawable-en-xhdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-xhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xhdpi\SplashPage11.png" />
@@ -1512,7 +1512,7 @@
     <AndroidResource Include="Resources\drawable-en-mdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-mdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-mdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-mdpi\SplashPage11.png" />
@@ -1599,7 +1599,7 @@
     <AndroidResource Include="Resources\drawable-en-ldpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-ldpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-ldpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-ldpi\SplashPage11.png" />
@@ -1686,7 +1686,7 @@
     <AndroidResource Include="Resources\drawable-en-hdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-hdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-hdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-hdpi\SplashPage11.png" />
@@ -1773,7 +1773,7 @@
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\SplashImg.webp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-en-xxxhdpi\SplashPage10.png" />
+    <AndroidResource Include="Resources\drawable-en-xxxhdpi\SplashPage10.webp" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-en-xxxhdpi\SplashPage11.png" />
